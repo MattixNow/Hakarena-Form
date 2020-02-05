@@ -14,7 +14,7 @@
     "@nuxtjs/axios": "5.9.5",
     "@nuxtjs/bulma": "1.2.6",
     "@nuxtjs/pwa": "3.0.0-beta.20",
-    "ajv": "6.10.2",
+    "ajv": "6.11.0",
     "bulma-checkradio": "1.1.1",
     "circular-json": "0.5.9",
     "element-ui": "2.12.0",
